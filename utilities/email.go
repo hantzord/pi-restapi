@@ -7,7 +7,7 @@ import (
 
 func SendEmail(to string, otp string) error {
 	from := "alfianforpi@gmail.com"
-	password := "otdl otda orgr ahzp"
+	password := "jebo nmgt jyru jiry"
 
 	// Konfigurasi SMTP server
 	smtpHost := "smtp.gmail.com"
